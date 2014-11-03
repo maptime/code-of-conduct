@@ -1,10 +1,6 @@
-baseurl: /starter
+baseurl: /code-of-conduct
 permalink: pretty
 markdown: kramdown
 paginate: 5
-repo: starter
+repo: code-of-conduct
 github_org: maptime
-maptime:
-  chapter: Meetup name
-  twitter: YourName
-  #disqus: YOUR DISQUS USERNAME
