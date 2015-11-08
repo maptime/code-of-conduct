@@ -3,7 +3,7 @@ layout: post
 title: Code of Conduct
 ---
 
-_This Code of Conduct has been pulled from [citizencodeofconduct.org](citizencodeofconduct.org).  Many thanks to them for the work they do, and for providing language for us to speak to a code of conduct for Maptime._
+_This Code of Conduct has been pulled from [citizencodeofconduct.org](http://citizencodeofconduct.org/).  Many thanks to them for the work they do, and for providing language for us to speak to a code of conduct for Maptime._
 
 A primary goal of Maptime is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
 
