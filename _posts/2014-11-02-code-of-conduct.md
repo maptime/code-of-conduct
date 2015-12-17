@@ -72,7 +72,8 @@ The following items are worth calling out as activities that are prohibited from
 - __Seeking volunteers to build your product__. Are you looking for free labor for your idea? You have come to the wrong place.
 
 - __But wait, what if it’s an artist or nonprofit project and a lot of us really want to work on it?__ Isn’t Maptime a great place to make that happen? Totally. If Maptime students decide that they want to work on a project for a good cause or an artist or someone who really doesn’t have any money, sure! Local Chapters should decide among themselves if they want to devote Maptime time to this project, or if the project needs to find its own meeting time.
-Seeking free consultation for your product or idea. We recommend hiring experts for this kind of thing.
+
+- __Seeking free consultation for your product or idea?__ We recommend hiring experts for this kind of thing.
 
 __The bottom line:__ There is a gray area between doing something because you want to learn, and doing something under the guise of learning by building someone else’s product for free. In addition to spec- or deadline-driven work being a major fun ruiner when it comes to learning, using volunteer labor for profit undermines all of our ability to make a fair wage. It is important for everyone working in design and technology to support one another towards earning fair wages, and for people to respect Maptime’s intentions towards learning and community.
 
